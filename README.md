@@ -12,4 +12,4 @@ WEN Zhaohe's repository for the course Social Computing
 
 ## Labs
 - 期中作业：机器学习公平性文献阅读报告
-- 期末大项目：
+- 期末大项目：面孔知觉的可解释性深度学习算法
